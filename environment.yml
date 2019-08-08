@@ -1,12 +1,13 @@
 name: nteractive
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
   - altair
   - matplotlib
   - numpy
   - pandas
+  - pip
   - plotly
   - requests
   - seaborn
